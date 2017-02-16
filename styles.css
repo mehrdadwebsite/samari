@@ -1,7 +1,9 @@
 *{
 	font-family:BBCNassim !important;
 }
-
+.material-icons{
+    font-family: 'Material Icons' !important;
+}
 .portfolio-header {
   position: relative;
   background-image: url(images/header-bg.jpg);
