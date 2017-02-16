@@ -2,5 +2,5 @@
 image_path: wrestling/icon.png
 title: خانه کشتی ملارد
 description: سعی کردیم در تمام طول روز مربی داشته باشیم که هر وقت خواستید ورزش کنید. برای تمامی سنین زمان های مجزا در نظر گرفتیم. لطفا به سلامتی خودتون اهمیت بدید. (زیر نظر ستار عباسی)
-link: /Sports/Wrestling/index.html
+link: /Sports/Wrestling/Index.html
 ---
