@@ -1,14 +1,15 @@
 ---
 layout: default
-title: مجموعه فرهنگی ورزشی
-heading: مجموعه فرهنگی ورزشی شهید ثمری ملارد
-menu: main
+title: خانه کشتی و پایگاه قهرمانی ملارد
+heading: خانه کشتی و پایگاه قهرمانی ملارد(زیر نظر ستار عباسی)
+menu: wrestling
+selected: Teachers
 ---
 
-{% for item in site.sport %}
+{% for item in site.wrestling_teachers %}
 	<div class="mdl-cell mdl-card mdl-shadow--4dp portfolio-card">
 		<div class="mdl-card__media">
-			<img class="article-image" src=" images/sport/{{item.image_path}}" border="0" alt="">
+			<img class="article-image" src="/images/wrestling-teachers/{{item.image_path}}" border="0" alt="">
 		</div>
 		<div class="mdl-card__title">
 			<h2 class="mdl-card__title-text">{{item.title}}</h2>
